@@ -2,4 +2,4 @@
 # prediction-market
 .
 mmm
-mn
+m
